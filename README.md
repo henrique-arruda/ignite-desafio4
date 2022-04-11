@@ -28,6 +28,8 @@
 
 ## :rocket: Sobre o desafio
 
+![gorestaurant](https://user-images.githubusercontent.com/72982326/162776750-184d10c0-1d48-4726-b1f4-2741e447156b.png)
+
 Nesse desafio, você irá desenvolver mais uma aplicação, a GoRestaurant. Agora você irá praticar o que você aprendeu até agora no React.js junto com TypeScript, praticando o conceito de CRUD (Create, Read, Update, Delete).
 
 Essa será uma aplicação que irá se conectar a uma fake API, e exibir os pratos de comida criados e permitir a criação, remoção e atualização desses pratos.
@@ -104,13 +106,7 @@ Para esse desafio, temos os seguintes testes:
 
 Esse desafio deve ser entregue a partir da plataforma Skylab, envie o link do repositório que você fez suas alterações. Após concluir o desafio, fazer um post no Linkedin e postar o código no Github é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
 
-## Solução do desafio
 
-Caso você queira ver como resolver o desafio, fizemos um video explicando o passo a passo para cumprir com todos os requisitos da aplicação:
-
-<a href="https://youtu.be/9YQRZK5mJlw" target="_blank" align="center">
-  <img src="./assets/challenge-07-thumb.png">
-</a>
 
 ## :memo: Licença
 
